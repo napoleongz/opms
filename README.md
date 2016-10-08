@@ -39,4 +39,4 @@ libai
 
 # QQ群：451420312
 
-![image](http://git.oschina.net/lock-upme/opms/blob/master/static/img/opms-view.png)
+![image](http://opms.milu365.cn/img/opms.png)
