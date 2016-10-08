@@ -35,4 +35,8 @@ libai
 
 123456
 
-![image](http://opms.milu365.cn/img/opms.png)
+技术讨论群：
+
+# QQ群：451420312
+
+![image](http://git.oschina.net/lock-upme/opms/blob/master/static/img/opms-view.png)
