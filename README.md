@@ -39,4 +39,15 @@ libai
 
 # QQ群：451420312
 
-![image](http://opms.milu365.cn/img/opms.png)
+# 捐赠
+支付宝：
+
+![image](http://git.oschina.net/lock-upme/opms/blob/master/static/img/qrcode_alipay.png)
+
+微信:
+
+![image](http://git.oschina.net/lock-upme/opms/blob/master/static/img/qrcode_wechat.png)
+
+# 效果图预览
+
+![image](http://git.oschina.net/lock-upme/opms/blob/master/static/img/opms-view.png)
