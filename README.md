@@ -42,12 +42,12 @@ libai
 # 捐赠
 支付宝：
 
-![image](http://opms.milu365.cn/img/qrcode_alipay.png)
+![image](https://github.com/lock-upme/OPMS/blob/master/static/img/qrcode_alipay.png)
 
 微信:
 
-![image](http://opms.milu365.cn/img/qrcode_wechat.png)
+![image](https://github.com/lock-upme/OPMS/blob/master/static/img/qrcode_wechat.png)
 
 # 效果图预览
 
-![image](http://opms.milu365.cn/img/opms-view.png)
+![image](https://github.com/lock-upme/OPMS/blob/master/static/img/opms-view.png)
